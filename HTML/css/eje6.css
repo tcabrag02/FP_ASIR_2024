@@ -1,0 +1,14 @@
+.boton {
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+    background-color: #3498db;
+    color: white;
+    transition: background-color 0.3s ease; 
+  }
+  
+  .boton:hover {
+    background-color: var(--color-random); 
+  }
