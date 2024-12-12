@@ -1,0 +1,10 @@
+input{
+    border-radius:20px 40px 35px;
+}
+.red-text-shadow {
+    text-shadow: violet 0 -2px;
+  }
+p {
+    box-shadow: 20px 20px 10px grey;
+}
+  

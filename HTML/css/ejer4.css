@@ -1,0 +1,16 @@
+h1{
+    font-family: 'open_sansregular‘, Helvetica, Arial, sans-serif;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.noto-serif-khitan-small-script-regular {
+    font-family: "Noto Serif Khitan Small Script", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
